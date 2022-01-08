@@ -5,18 +5,19 @@
 <div align="left">   
   <p align="left">
 	  
-  - 👩‍💻  Full-Stack Web Developer Jr
+  -  👩‍💻  Full-Stack Web Developer Jr
   - 🎓 Information Systems
+  - 😎 I'm 19 y.o and I'm from Brazil
   - 📚 I'm learning about Node.js, React.js and SQL
   - 💬 Ask me about HTML, CSS, JavaScript, I'm happy to help :)
   - 🏆️ 2022 Goals: Learn English and Chess
-  
+  - ⚡ Fun fact: My computer extremely organized but my room...
   </p>
 </div>
 
 ## 🔍 Where to find me:
 
-<p>If you want to reach out to me about anything, be it some doubt or just to hangout and talk , just ping me &nbsp;</p> 
+<p>If you want to reach out to me about anything, be it some doubt or just to hangout and talk ,  just ping me. &nbsp;</p> 
 
 [![dev.to](https://img.shields.io/badge/dev.to-111?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/biahdev)
 [![codepen](https://img.shields.io/badge/codepen-111?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/BiahDev)
@@ -51,6 +52,7 @@
 - 🎯 Study on productivity and organization
 - 🎮 Games 
 - 🎬 Watch series, movies and anime 
+- 🎵 I love brazilian rap
 -  💰️ Criptomoedas e NFT Games
 
 
