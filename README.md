@@ -62,7 +62,7 @@
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=biahdev&show_icons=true&hide_border=true&theme=midnight-purple&bg_color=111" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=biahdev&show_icons=true&theme=midnight-purple&bg_color=111" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=biahdev&hide_border=true&theme=midnight-purple&background=111" />
 </p>
 
