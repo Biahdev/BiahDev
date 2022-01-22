@@ -5,7 +5,7 @@
 <div align="left">   
   <p align="left">
 	  
-  -  👩‍💻  Full-Stack Web Developer Jr
+  - 👩‍💻 Front-end Web Developer Jr
   - 🎓 Information Systems
   - 😎 I'm 19 y.o and I'm from Brazil
   - 📚 I'm learning about Node.js, React.js and SQL
