@@ -5,7 +5,7 @@
 <div align="left">   
   <p align="left">
 	  
-  - 👩‍💻 Front-end Web Developer Jr
+  - 👩‍💻 Back-end Web Developer
   - 🎓 Information Systems
   - 😎 I'm 19 y.o and I'm from Brazil
   - 📚 I'm learning about Node.js, React.js and SQL
@@ -54,12 +54,6 @@
 - 🎮 Games 
 - 🎬 Watch series, movies and anime 
 - 🎵 I love brazilian rap
--  💰️ Criptomoedas e NFT Games
-
-
-<!-- <details>
-  <summary><b>Toggle</b></summary>
-</details> -->
 
 ## 📊 GitHub Analytics
 <p align="center">
