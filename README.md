@@ -8,9 +8,9 @@
   - 👩‍💻 Back-end Web Developer
   - 🎓 Information Systems
   - 😎 I'm 19 y.o and I'm from Brazil
-  - 📚 I'm learning about Node.js, React.js and SQL
+  - 📚 I'm learning about PHP and MySql
   - 💬 Ask me about HTML, CSS, JavaScript, I'm happy to help :)
-  - 🏆️ 2022 Goals: Learn English and Chess
+  - 🏆️ 2022 Goals: Learn English
   - ⚡ Fun fact: My computer extremely organized but my room...
   </p>
 </div>
@@ -33,7 +33,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![express](https://img.shields.io/badge/express-111?style=for-the-badge&logo=express&logoColor=white)
 ![sass](https://img.shields.io/badge/sass-111?style=for-the-badge&logo=sass&logoColor=white)
