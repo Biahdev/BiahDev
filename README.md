@@ -33,6 +33,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=white)
+![PHP](https://img.shields.io/badge/php-111?style=for-the-badge&logo=php&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![express](https://img.shields.io/badge/express-111?style=for-the-badge&logo=express&logoColor=white)
 ![sass](https://img.shields.io/badge/sass-111?style=for-the-badge&logo=sass&logoColor=white)
@@ -40,6 +41,8 @@
 ![sql](https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=database&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-111?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jquey](https://img.shields.io/badge/jQuery-111?style=for-the-badge&logo=jquery&logoColor=white)
+
+
 
 ## 🛠 Tools
 ![notion](https://img.shields.io/badge/notion-111?style=for-the-badge&logo=notion&logoColor=white)
