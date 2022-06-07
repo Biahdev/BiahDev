@@ -1,7 +1,7 @@
 
 <img align="right" width="30%" src="https://github.com/BiahDev/BiahDev/blob/main/assests/brasil.gif"/>
 
-<h1 align="left"> Hey!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"/> Nice to see you</h1>
+<h1 align="left"> Hey!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" max-with="30px" width="30px"/> Nice to see you</h1>
 <div align="left">   
   <p align="left">
 	  
