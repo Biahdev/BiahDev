@@ -8,7 +8,7 @@
   - 👩‍💻 Back-end Web Developer
   - 🎓 Information Systems
   - 😎 I'm 20 y.o and I'm from Brazil
-  - 📚 I'm learning about PHP and MySql
+  - 📚 I'm learning about Laravel and MySql
   - 💬 Ask me about HTML, CSS, JavaScript, I'm happy to help :)
   - 🏆️ 2022 Goals: Learn English
   - ⚡ Fun fact: My computer extremely organized but my room...
