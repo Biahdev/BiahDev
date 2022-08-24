@@ -8,7 +8,7 @@
   - 👩‍💻 Back-end Web Developer
   - 🎓 Information Systems
   - 😎 I'm 20 y.o and I'm from Brazil
-  - 📚 I'm learning about Laravel and MySql
+  - 📚 I'm learning about Java and Vue.js
   - 💬 Ask me about HTML, CSS, JavaScript, I'm happy to help :)
   - 🏆️ 2022 Goals: Learn English
   - ⚡ Fun fact: My computer extremely organized but my room...
@@ -31,13 +31,14 @@
 ![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=OpenJDK&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-111?style=for-the-badge&logo=php&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-111?style=for-the-badge&logo=mysql&logoColor=white)
 ![laravel](https://img.shields.io/badge/Laravel-111?style=for-the-badge&logo=laravel&logoColor=white)
-![sql](https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=database&logoColor=white)
+![sql](https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-111?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jquey](https://img.shields.io/badge/jQuery-111?style=for-the-badge&logo=jquery&logoColor=white)
-
+![vue](https://img.shields.io/badge/vue-111?style=for-the-badge&logo=vuedotjs&logoColor=white)
 
 
 ## 🛠 Tools
