@@ -8,7 +8,7 @@
   - 👩‍💻 Back-end Web Developer
   - 🎓 Information Systems
   - 😎 I'm 20 y.o and I'm from Brazil
-  - 📚 I'm learning about Java and Vue.js
+  - 📚 I'm learning about Java
   - 💬 Ask me about HTML, CSS, JavaScript, I'm happy to help :)
   - ⚡ Fun fact: My computer extremely organized but my room...
   </p>
