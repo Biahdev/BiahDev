@@ -7,7 +7,7 @@
 	  
   - 👩‍💻 Back-end Web Developer
   - 🎓 Information Systems
-  - 😎 I'm 20 y.o and I'm from Brazil
+  - 😎 I'm 22 y.o and I'm from Brazil
   - 📚 I'm learning about Java
   - 💬 Ask me about HTML, CSS, JavaScript, I'm happy to help :)
   - ⚡ Fun fact: My computer extremely organized but my room...
@@ -22,8 +22,6 @@
 [![linkedin](https://img.shields.io/badge/linkedin-111?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/abeatrizdev/)
 [![dev.to](https://img.shields.io/badge/dev.to-111?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/biahdev)
 [![codepen](https://img.shields.io/badge/codepen-111?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/BiahDev)
-
-
 
 
 > Qual é o passo mais difícil, LP ? O próximo - Sant
