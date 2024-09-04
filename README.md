@@ -21,9 +21,6 @@
 [![dev.to](https://img.shields.io/badge/dev.to-111?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/biahdev)
 [![codepen](https://img.shields.io/badge/codepen-111?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/BiahDev)
 
-
-> Qual é o passo mais difícil, LP ? O próximo - Sant
-
 ## ⚡ Languages, Libraries and Frameworks
 ![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=white)
@@ -43,19 +40,6 @@
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-111?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![discord](https://img.shields.io/badge/discord-111?style=for-the-badge&logo=discord&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=white)
-
-> 🦋 This action will have consequences - Life is Stranger
-## 🚀 Hobbies
-- 🎯 Study on productivity and organization
-- 🎮 Games 
-- 🎬 Watch series, movies and anime 
-- 🎵 I love brazilian rap
-
-## 📊 GitHub Analytics
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=biahdev&show_icons=true&theme=midnight-purple&bg_color=111&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=biahdev&hide_border=true&theme=midnight-purple&background=111" />
-</p>
 
 ---
 
