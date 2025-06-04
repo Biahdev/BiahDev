@@ -1,8 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=994&color=F7F7F7&width=500&height=46&lines=Ol%C3%A1%2C+eu+sou+a+Ana+Beatriz!)](https://git.io/typing-svg)
-- 👩🏻‍💻 Desenvolvedora Back-end
-- 🎓 Sistema da informação
-- 🧠 Interesse em Java, Spring Boot, arquitetura de microsserviços e AWS 
-- 🤝 Aberta a novas oportunidades
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=994&color=F7F7F7&width=500&height=43&lines=Ol%C3%A1%2C+eu+sou+a+Ana+Beatriz!)](https://git.io/typing-svg)
+
+## 👩🏻‍💻 Sobre
+- Desenvolvedora Back-end
+- Sistema da informação
+- Me pergunte sobre Java, Spring Boot, arquitetura de microsserviços e AWS 
+- Se interessou pelo meu perfil? Vamos bater um papo!
 
 ## ⚡ Tecnologias
 ![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=OpenJDK&logoColor=white)
