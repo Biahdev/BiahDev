@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=994&color=111111&width=500&height=43&lines=Ol%C3%A1%2C+eu+sou+a+Ana+Beatriz!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=994&color=444444&width=500&height=50&lines=Ol%C3%A1%2C+eu+sou+a+Ana+Beatriz!)](https://git.io/typing-svg)
 
 ## 👩🏻‍💻 Sobre mim
 - Desenvolvedora Back-end
